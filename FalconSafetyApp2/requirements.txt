@@ -1,6 +1,6 @@
-streamlit
-ultralytics
-opencv-python
+streamlit==1.33.0
+ultralytics==8.0.170
+opencv-python==4.8.1.78
 Pillow
-torch
+torch==2.2.2
 gdown
