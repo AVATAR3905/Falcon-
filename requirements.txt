@@ -4,3 +4,4 @@ opencv-python-headless
 Pillow>=10.1.0
 # Remove torch version — let it auto-select latest working one
 torch
+gdown
